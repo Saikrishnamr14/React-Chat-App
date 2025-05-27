@@ -92,11 +92,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 4. Push to the branch (`git push origin feature/chat-enhancement`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Made with ❤️ using React and Socket.IO**
 
